@@ -30,9 +30,15 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=ayu_mirage"/>
 </div>
 
-<!-- Figs -->
   <br> 
   <br>
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Languages</b>
+      </samp>
+  </summary>
+<!-- Figs -->
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -46,9 +52,9 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
+</details>
 
-<br>
-<br>
+##
 
 <details align="center">  
   <summary>
