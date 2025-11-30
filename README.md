@@ -2,8 +2,9 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/mrw-its-announced-activision-will-rerelease-crash-bandicoot-1-2-3-ps4-jnXVfqt" />
+  <img src="https://i.imgur.com/jnXVfqt.gif" width="300" alt="Crash Bandicoot GIF" />
 </div>
+<br>
 
 <div align="center">
   
