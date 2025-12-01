@@ -28,17 +28,10 @@
 
 <!-- Status -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeR-Nog&theme=gotham" alt="Top Language by Repo" />
-      </td>
-      <td align="center" width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham" alt="Top Language by Commit" />
-      </td>
-    </tr>
-  </table>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham" alt="Profile Details" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeR-Nog&theme=gotham" alt="Top Language" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham" alt="Top Language" />
+  <br/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham" alt="Profile Details" />
 </div>
 
   <br> 
