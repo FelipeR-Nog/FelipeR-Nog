@@ -43,7 +43,9 @@
 
   <br> 
   <br>
-
+  
+  ##
+  
 <!-- Figs -->
 <details align="center">  
   <summary>
@@ -99,6 +101,10 @@
 
 ##
 
+<br>
+<br>
+
+<!--Visitas-->
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=FelipeR-Nog&style=flat-square&color=1cb891" /></p> 
 </div>
