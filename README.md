@@ -1,13 +1,9 @@
-<br>
-<br>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d53bd&height=120&section=header"/>
 <div align="center">
   <img src="https://i.imgur.com/jnXVfqt.gif" width="300" alt="Crash Bandicoot GIF" />
 </div>
-<br>
-
 <div align="center">
-  
+
   <b>`Software Enginer`</b>
   <samp>
       <br>
@@ -20,7 +16,7 @@
 
 <!-- Texto Animado -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I%27m+a+student+of+Software+Enginer;I%27m+also+a+Gamer+%F0%9F%8E%AE;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=6d53bd&width=900&size=22&center=true&lines=I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I%27m+a+student+of+Software+Enginer;I%27m+also+a+Gamer+%F0%9F%8E%AE;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <!-- Status -->
@@ -69,10 +65,12 @@
 <div align="center">
   <samp>
     <b>
+      <br>
       Contact me:
+      <br>
     </b>
   </samp>
-  
+
   <br>
   <br>
 
