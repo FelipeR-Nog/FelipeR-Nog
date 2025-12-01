@@ -63,6 +63,7 @@
 
 ##
 
+<!--more info-->
 <details align="center">  
   <summary>
       <samp>
@@ -72,24 +73,54 @@
   
 <br>
 
-<!--Contact Bar-->
+<div align="center">
+  <samp>
+    I'm a Software Engineering student based in Brazil 🇧🇷. <br>
+    Currently working as an intern on the <b>PAE Project</b>. <br>
+    Passionate about <b>Algorithms</b>, <b></b>, and <b>Web Development</b>. <br>
+    Passionate about <b>Algorithms</b>, <b>Concurrency</b>, and <b>Web Development</b>. <br>
+  </samp>
+</div>
+
+<br>
+
+<div align="center">
+  <samp><b>Tech Stack & Tools:</b></samp>
+  <br><br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
+
+<br>
+<br>
+
 <div align="center">
   <samp>
     <b>
-      <br>
       Contact me:
       <br>
     </b>
   </samp>
 
   <br>
-  <br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiznogueira.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  
+  <a href="mailto:luiznogueira.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="LINK_DO_SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="LINK_DO_SEU_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="LINK_DO_SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   </div>
+  <br>
 </details>
 
 ##
