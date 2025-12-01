@@ -23,6 +23,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1cb891&width=900&size=22&center=true&lines=I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I%27m+a+student+of+Software+Enginer;I%27m+also+a+Gamer+%F0%9F%8E%AE;Be+welcome!" alt="Typing SVG"/>
 </div>
 
+<br>
+<br>
+
 <!-- Status -->
 <div align="center">
   <table>
