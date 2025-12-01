@@ -85,8 +85,6 @@
 
 ##
 
-<br>
-
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=FelipeR-Nog&style=flat-square&color=755b25" /></p> 
 </div>
