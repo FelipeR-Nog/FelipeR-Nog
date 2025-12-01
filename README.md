@@ -100,13 +100,13 @@
 <a href="mailto:luiznogueira.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="LINK_DO_SEU_INSTAGRAM">
+  <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="LINK_DO_SEU_DISCORD">
+  <a href="https://discord.gg/xaUzTWEu">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/luiz-felipe-rodrigues-nogueira-6a941639b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   </div>
