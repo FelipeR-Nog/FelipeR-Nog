@@ -87,6 +87,4 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=FelipeR-Nog&style=flat-square&color=755b25" /></p> 
 </div>
 
-<br>
-<br>
-<br> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d53bd&height=120&section=footer"/>
