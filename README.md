@@ -37,32 +37,6 @@
   <br> 
   <br>
   
-  ##
-  
-<!-- Figs -->
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Languages</b>
-      </samp>
-  </summary>
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
-</details>
-
-##
-
 <!--more info-->
 <details align="center">  
   <summary>
@@ -71,29 +45,46 @@
       </samp>
   </summary>
   
+<br>  
+<br>
 <br>
 
+<!--Text about me-->
 <div align="center">
   <samp>
-    I'm a Software Engineering student based in Brazil 🇧🇷. <br>
+    <h3>I'm a Software Engineering student based in Brazil 🇧🇷. <br>
     Currently working as an intern on the <b>PAE Project</b>. <br>
-    Passionate about <b>Algorithms</b>, <b></b>, and <b>Web Development</b>. <br>
-    Passionate about <b>Algorithms</b>, <b>Concurrency</b>, and <b>Web Development</b>. <br>
+    Passionate about <b>Algorithms</b>, <b>Concurrency</b>, and <b>Web Development</b>. <br></h3>
   </samp>
 </div>
 
+<br>
+<br>
 <br>
 
 <div align="center">
   <samp><b>Tech Stack & Tools:</b></samp>
   <br><br>
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br>
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <br>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </div>
 
+<br>
 <br>
 <br>
 
@@ -107,7 +98,7 @@
 
   <br>
   
-  <a href="mailto:luiznogueira.dev@gmail.com">
+<a href="mailto:luiznogueira.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="LINK_DO_SEU_INSTAGRAM">
