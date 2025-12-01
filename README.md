@@ -45,7 +45,6 @@
       </samp>
   </summary>
   
-<br>  
 <br>
 <br>
 
