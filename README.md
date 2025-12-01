@@ -25,22 +25,29 @@
 
 <!-- Status -->
 <div align="center">
-  <br> 
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeR-Nog&theme=gotham"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham"/> 
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham"/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeR-Nog&theme=gotham" alt="Top Language by Repo" />
+      </td>
+      <td align="center" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham" alt="Top Language by Commit" />
+      </td>
+    </tr>
+  </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham" alt="Profile Details" />
 </div>
 
   <br> 
   <br>
+
+<!-- Figs -->
 <details align="center">  
   <summary>
       <samp>
         <b>Languages</b>
       </samp>
   </summary>
-<!-- Figs -->
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
