@@ -16,14 +16,16 @@
 
 <!-- Texto Animado -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=6d53bd&width=900&size=22&center=true&lines=I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I%27m+a+student+of+Software+Enginer;I%27m+also+a+Gamer+%F0%9F%8E%AE;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1cb891&width=900&size=22&center=true&lines=I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I%27m+a+student+of+Software+Enginer;I%27m+also+a+Gamer+%F0%9F%8E%AE;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <!-- Status -->
 <div align="center">
   <br> 
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=algolia"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeR-Nog&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham"/>  
 </div>
 
   <br> 
