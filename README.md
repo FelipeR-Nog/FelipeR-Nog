@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d53bd&height=120&section=header"/>
+
+<!--Cabeçalho-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1cb891&height=120&section=header"/>
+
+<!--Gif Crash-->
 <div align="center">
   <img src="https://i.imgur.com/jnXVfqt.gif" width="300" alt="Crash Bandicoot GIF" />
 </div>
@@ -23,9 +27,9 @@
 <div align="center">
   <br> 
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham"/>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeR-Nog&theme=gotham"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham"/>  
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeR-Nog&theme=gotham"/> 
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeR-Nog&theme=gotham"/>
 </div>
 
   <br> 
@@ -86,7 +90,8 @@
 ##
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=FelipeR-Nog&style=flat-square&color=6d53bd" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=FelipeR-Nog&style=flat-square&color=1cb891" /></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d53bd&height=120&section=footer"/>
+<!--Rodape-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1cb891&height=120&section=footer"/>
